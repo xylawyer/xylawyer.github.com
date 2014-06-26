@@ -12,7 +12,7 @@ author :
   twitter : username
   feedburner : feedname
 
-uction_url : http://xylawyer.github.io
+production_url : http://xylawyer.github.io
 
 JB :
   version : 0.3.0
