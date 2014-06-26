@@ -3,8 +3,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 markdown: kramdown
 
-title : 深圳南山律师事务所
-tagline : 深圳贤耀律师事务所
+title : 深圳贤耀律师事务所
+tagline : 深圳南山律师事务所
 author : 
   name : xylawyer
   email : blah@email.test
